@@ -4,7 +4,7 @@ Welcome to my GitHub profile! 🚀 I'm excited you’re here. Here’s a little 
 
 ## About Me 🤔
 
-I'm Muharu, a passionate Fullstack JavaScript Developer and Golang enthusiast from Indonesia. I love diving into new technologies, building innovative solutions, and sharing knowledge. When I'm not coding, you might find me exploring new cultures, enjoying some local cuisine, or hiking the beautiful landscapes of Indonesia.
+I'm Muharu, a passionate Fullstack JavaScript Developer and Golang enthusiast from Indonesia. I love diving into new technologies, building innovative solutions, and sharing knowledge.
 
 ## 🚀 Library / Packages / Tools
 - [@giverve/snowflakes](https://www.npmjs.com/package/@giverve/snowflakes): Generate SnowflakesId for backend and frontend.
