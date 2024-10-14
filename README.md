@@ -9,7 +9,7 @@ I'm Muharu, a passionate Fullstack JavaScript Developer and Golang enthusiast fr
 ## 🚀 Library 
 - [@giverve/snowflakes](https://www.npmjs.com/package/@giverve/snowflakes): Generate Snowflakes Id in backend and frontend!  
 
-## 🚀 What I Do
+## 💼 What I Do
 
 - **Code:** I specialize in fullstack JavaScript and Golang, crafting robust and scalable applications.
 - **Create:** From front-end interfaces to backend services, I enjoy working on diverse projects and contributing to open-source.
