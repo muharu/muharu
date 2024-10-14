@@ -6,6 +6,9 @@ Welcome to my GitHub profile! 🚀 I'm excited you’re here. Here’s a little 
 
 I'm Muharu, a passionate Fullstack JavaScript Developer and Golang enthusiast from Indonesia. I love diving into new technologies, building innovative solutions, and sharing knowledge. When I'm not coding, you might find me exploring new cultures, enjoying some local cuisine, or hiking the beautiful landscapes of Indonesia.
 
+## 🚀 Library 
+-- [@giverve/snowflakes](https://www.npmjs.com/package/@giverve/snowflakes)
+
 ## 🚀 What I Do
 
 - **Code:** I specialize in fullstack JavaScript and Golang, crafting robust and scalable applications.
@@ -20,7 +23,6 @@ I'm Muharu, a passionate Fullstack JavaScript Developer and Golang enthusiast fr
 ## 🌍 Let's Connect!
 
 - [LinkedIn](https://www.linkedin.com/in/muharu)
-- [Portfolio/Website](https://muharu) (coming soon!)
 
 ## 🙋‍♂️ How to Reach Me
 
