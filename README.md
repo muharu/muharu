@@ -8,7 +8,7 @@ I'm Muharu, a passionate Fullstack JavaScript Developer and Golang enthusiast fr
 
 ## 🚀 Library / Packages / Tools
 - [@giverve/starterkit](https://github.com/muharu/giverve-starterkit): Skeleton starterkit for your next project that well configured.    
-- [@giverve/snowflakes](https://www.npmjs.com/package/@giverve/snowflakes): Generate Snowflakes Id in backend and frontend.  
+- [@giverve/snowflakes](https://www.npmjs.com/package/@giverve/snowflakes): Generate SnowflakesId for backend and frontend. psstt.. you can also extract information from the id!   
 
 ## 💼 What I Do
 
