@@ -7,8 +7,8 @@ Welcome to my GitHub profile! 🚀 I'm excited you’re here. Here’s a little 
 I'm Muharu, a passionate Fullstack JavaScript Developer and Golang enthusiast from Indonesia. I love diving into new technologies, building innovative solutions, and sharing knowledge. When I'm not coding, you might find me exploring new cultures, enjoying some local cuisine, or hiking the beautiful landscapes of Indonesia.
 
 ## 🚀 Library / Packages / Tools
-- [@giverve/starterkit](https://github.com/muharu/giverve-starterkit): Skeleton starterkit for your next project that well configured.    
-- [@giverve/snowflakes](https://www.npmjs.com/package/@giverve/snowflakes): Generate SnowflakesId for backend and frontend. psstt.. you can also extract information from the id!   
+- [@giverve/snowflakes](https://www.npmjs.com/package/@giverve/snowflakes): Generate SnowflakesId for backend and frontend. psstt.. not only the id
+- [@giverve/starterkit](https://github.com/muharu/giverve-starterkit): Skeleton starterkit for your next project that well configured.
 
 ## 💼 What I Do
 
