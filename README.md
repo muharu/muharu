@@ -8,8 +8,8 @@ I'm Muharu, a passionate Fullstack JavaScript Developer and Golang enthusiast fr
 
 ## 🚀 Library / Packages / Tools
 - [ntry](https://www.npmjs.com/package/ntry): An elegant, zero-dependency, and type-safe library for superior error handling in TypeScript.
-- [@giverve/snowflakes](https://www.npmjs.com/package/@giverve/snowflakes): Generate SnowflakesId for backend and frontend.
-- [@giverve/starterkit](https://github.com/giverve/starterkit): Skeleton starterkit for your next project that well configured.
+- [MIXAPI](https://www.npmjs.com/package/mixapi): versatile and extensible library designed to seamlessly integrate Remix applications with popular backend and routing frameworks, such as Hono.
+- [starterkit](https://github.com/giverve/starterkit): Skeleton starterkit for your next project that well configured.
 
 ## 🙋‍♂️ How to Reach Me
 
