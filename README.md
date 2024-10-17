@@ -8,7 +8,8 @@ I'm Muharu, a passionate Fullstack JavaScript Developer and Golang enthusiast fr
 
 ## 🚀 Library / Packages / Tools
 - [Ntry](https://www.npmjs.com/package/ntry): An elegant, zero-dependency, and type-safe library for superior error handling in TypeScript.
-- [MixApi](https://www.npmjs.com/package/mixapi): versatile and extensible library designed to seamlessly integrate Remix applications with popular backend and routing frameworks, such as Hono.
+- [Optimistic Snowflakes](https://www.npmjs.com/package/optimistic-snowflakes): Simple, robust, and scalable unique ID generator designed for both frontend and backend systems. It generates 64-bit Snowflake IDs. 
+- [Remixy](https://www.npmjs.com/package/remixy): versatile and extensible library designed to seamlessly integrate Remix applications with popular backend and routing frameworks, such as Hono.
 - [Turborepo Starterkit](https://github.com/giverve/starterkit): Skeleton starterkit for your next project that well configured.
 
 ## 🙋‍♂️ How to Reach Me
