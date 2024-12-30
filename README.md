@@ -1,3 +1,3 @@
-## About Me 🤔
+## Muhammed Harun Alrasyid
 
-I'm Muharu, a passionate Fullstack Typescript and Go developer from Indonesia. I love diving into new technologies, building innovative solutions, and sharing knowledge.
+Hi! I'm Muharu. You can find me as "muharu" almost everywhere. I'm a Go and TypeScript developer. K Bye 👋
